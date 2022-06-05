@@ -1,0 +1,10 @@
++-------------+-------------+------+-----+---------+----------------+
+| Field       | Type        | Null | Key | Default | Extra          |
++-------------+-------------+------+-----+---------+----------------+
+| UserInfo_no | int(11)     | NO   | PRI | NULL    | auto_increment |
+| Name        | varchar(30) | YES  |     | NULL    |                |
+| ID          | varchar(30) | YES  |     | NULL    |                |
+| PW          | varchar(30) | YES  |     | NULL    |                |
+| Address     | varchar(40) | YES  |     | NULL    |                |
+| PhoneNum    | int(20)     | YES  |     | NULL    |                |
++-------------+-------------+------+-----+---------+----------------+
